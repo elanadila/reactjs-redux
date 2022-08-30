@@ -149,6 +149,21 @@
             "ktp_number": "2543765472455455",
             "current_position": "Staff",
             "bank_account": "Mandiri"
-        }
+        },
+		{
+			"id": 11,
+            "first_name": "Bryan",
+            "last_name": "Abbasy",
+            "date_of_birth": "05/08/1994",
+            "phone": "081234234123",
+            "email": "bryan@gmail.com",
+            "province": "DKI Jakarta",
+            "city": "Cempaka Putih",
+            "street": "Jl. Cemp. Putih Tengah I No.5F",
+            "zip_code": "10510",
+            "ktp_number": "2543765472455455",
+            "current_position": "Supervisor",
+            "bank_account": "BRI"
+        },
      ]
 }
